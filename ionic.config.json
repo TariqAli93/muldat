@@ -1,0 +1,8 @@
+{
+  "name": "muldat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "b6b13e02"
+}
